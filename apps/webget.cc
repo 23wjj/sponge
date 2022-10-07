@@ -17,14 +17,14 @@ void get_URL(const string &host, const string &path) {
     // send the request for getting the webpage
     tcp_sock.write("GET "+path+" HTTP/1.1\r\n");
     tcp_sock.write("Host: "+host+"\r\n");
-    tcp_sock.write("Connection: close\r\n");
+    tcp_sock.write("Connection: close\r\n\r\n");
 
     // close the message sending
     tcp_sock.shutdown(SHUT_WR);
 
     // accept information from the server
     while(!tcp_sock.eof()){
-        cerr << tcp_sock.read();
+        cout << tcp_sock.read();
     }
 
     // close tcp connection
