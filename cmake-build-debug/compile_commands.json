@@ -1,0 +1,97 @@
+[
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\byte_stream.cc.obj -c E:\\sponge\\libsponge\\byte_stream.cc",
+  "file": "E:\\sponge\\libsponge\\byte_stream.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\address.cc.obj -c E:\\sponge\\libsponge\\util\\address.cc",
+  "file": "E:\\sponge\\libsponge\\util\\address.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\buffer.cc.obj -c E:\\sponge\\libsponge\\util\\buffer.cc",
+  "file": "E:\\sponge\\libsponge\\util\\buffer.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\eventloop.cc.obj -c E:\\sponge\\libsponge\\util\\eventloop.cc",
+  "file": "E:\\sponge\\libsponge\\util\\eventloop.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\file_descriptor.cc.obj -c E:\\sponge\\libsponge\\util\\file_descriptor.cc",
+  "file": "E:\\sponge\\libsponge\\util\\file_descriptor.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\parser.cc.obj -c E:\\sponge\\libsponge\\util\\parser.cc",
+  "file": "E:\\sponge\\libsponge\\util\\parser.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\socket.cc.obj -c E:\\sponge\\libsponge\\util\\socket.cc",
+  "file": "E:\\sponge\\libsponge\\util\\socket.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\tun.cc.obj -c E:\\sponge\\libsponge\\util\\tun.cc",
+  "file": "E:\\sponge\\libsponge\\util\\tun.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\util.cc.obj -c E:\\sponge\\libsponge\\util\\util.cc",
+  "file": "E:\\sponge\\libsponge\\util\\util.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o apps\\CMakeFiles\\webget.dir\\webget.cc.obj -c E:\\sponge\\apps\\webget.cc",
+  "file": "E:\\sponge\\apps\\webget.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o tests\\CMakeFiles\\spongechecks.dir\\byte_stream_test_harness.cc.obj -c E:\\sponge\\tests\\byte_stream_test_harness.cc",
+  "file": "E:\\sponge\\tests\\byte_stream_test_harness.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_construction.dir\\byte_stream_construction.cc.obj -c E:\\sponge\\tests\\byte_stream_construction.cc",
+  "file": "E:\\sponge\\tests\\byte_stream_construction.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_one_write.dir\\byte_stream_one_write.cc.obj -c E:\\sponge\\tests\\byte_stream_one_write.cc",
+  "file": "E:\\sponge\\tests\\byte_stream_one_write.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_two_writes.dir\\byte_stream_two_writes.cc.obj -c E:\\sponge\\tests\\byte_stream_two_writes.cc",
+  "file": "E:\\sponge\\tests\\byte_stream_two_writes.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_capacity.dir\\byte_stream_capacity.cc.obj -c E:\\sponge\\tests\\byte_stream_capacity.cc",
+  "file": "E:\\sponge\\tests\\byte_stream_capacity.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_many_writes.dir\\byte_stream_many_writes.cc.obj -c E:\\sponge\\tests\\byte_stream_many_writes.cc",
+  "file": "E:\\sponge\\tests\\byte_stream_many_writes.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o doctests\\CMakeFiles\\address_dt.dir\\address_dt.cc.obj -c E:\\sponge\\doctests\\address_dt.cc",
+  "file": "E:\\sponge\\doctests\\address_dt.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o doctests\\CMakeFiles\\parser_dt.dir\\parser_dt.cc.obj -c E:\\sponge\\doctests\\parser_dt.cc",
+  "file": "E:\\sponge\\doctests\\parser_dt.cc"
+},
+{
+  "directory": "E:/sponge/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -IE:/sponge/libsponge/util -IE:/sponge/libsponge/tcp_helpers -IE:/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o doctests\\CMakeFiles\\socket_dt.dir\\socket_dt.cc.obj -c E:\\sponge\\doctests\\socket_dt.cc",
+  "file": "E:\\sponge\\doctests\\socket_dt.cc"
+}
+]
